@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 valentin valentin 4096 Feb 11 16:09 .
+drwxr-xr-x 6 valentin valentin 4096 Feb 11 13:33 ..
+-rwxr--r-- 1 valentin valentin   32 Feb 11 13:52 0-hello_world
+-rwxr--r-- 1 valentin valentin   29 Feb 11 14:16 1-confused_smiley
+-rwxr--r-- 1 valentin valentin   29 Feb 11 14:20 2-hellofile
+-rwxr--r-- 1 valentin valentin   39 Feb 11 14:21 3-twofiles
+-rwxr--r-- 1 valentin valentin   29 Feb 11 14:28 4-lastlines
+-rwxr--r-- 1 valentin valentin   29 Feb 11 14:31 5-firstlines
+-rwxr--r-- 1 valentin valentin   41 Feb 11 14:57 6-third_line
+-rwxr--r-- 1 valentin valentin  100 Feb 11 16:05 7-file
+-rwxr--r-- 1 valentin valentin   36 Feb 11 16:09 8-cwd_state
+-rw-r--r-- 1 valentin valentin   33 Feb 11 13:39 README.md
+-rw-r--r-- 1 valentin valentin   12 Feb 11 16:07 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 valentin valentin  327 Feb 11 14:37 iacta
+-rw-r--r-- 1 valentin valentin    0 Feb 11 16:09 ls_cwd_content
