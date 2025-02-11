@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R a+x /holbertonschool-shell/permissions
+find /holbertonschool-shell/permissions -type d -exec chmod a+x /holbertonschool-shell/permissions
