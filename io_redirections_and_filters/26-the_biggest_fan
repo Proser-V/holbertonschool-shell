@@ -1,0 +1,2 @@
+#!/bin/bash
+sort < weblogfile.tsv | cut -d- -f1 | uniq -c | sort -nr | head -n 11
