@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < weblogfile.tsv | cut -d- -f1 -s | uniq -c | sort -nr | head -n 11 | tr -s ' ' | cut -d ' ' -f 3
+sort | cut -d- -f1 -s | uniq -c | sort -nr | head -n 11 | tr -s ' ' | cut -d ' ' -f 3
